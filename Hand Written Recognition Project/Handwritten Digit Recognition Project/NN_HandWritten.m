@@ -1,4 +1,4 @@
-%% Machine Learning - Neural Network Learning
+%% Machine Learning - Neural Network Learning - Coursera Project
 
 % This code implements one-vs-all logistic regression and neural
 % netwroek to recognize hand-written digits.
