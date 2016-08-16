@@ -1,4 +1,4 @@
-%% Machine Learning - Linear Regression
+%% Machine Learning - Linear Regression - Coursera Project
 
 % a simple linear regression model with one variable is implemented to predict 
 % the profit of a chain restaurant in different cities.
