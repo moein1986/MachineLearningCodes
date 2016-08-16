@@ -1,4 +1,4 @@
-%% Machine Learning - Linear regression with multiple variables 
+%% Machine Learning - Linear regression with multiple variables - Coursera Project
 
 % a linear regression model with multiple variables is implemented to predict
 % the prices of houses in terms of their sizes and bedroom numbers.
