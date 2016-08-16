@@ -1,4 +1,4 @@
-%% Machine Learning - Regularized Logistic Regression
+%% Machine Learning - Regularized Logistic Regression - Coursera Project
 
 % a regularized logistic regression model is implemented to predict whether 
 % microchips from a fabrication plant passes quality assurance(QA).
