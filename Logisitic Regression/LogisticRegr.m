@@ -1,4 +1,4 @@
-%% Machine Learning - Logistic Regression
+%% Machine Learning - Logistic Regression - Coursera Project
 
 % a logistic regression model is implemented to predict 
 % whether a student gets admitted into a university.
